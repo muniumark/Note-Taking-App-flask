@@ -1,2 +1,2 @@
-# Note-Taking-App-flask
+# Note Taking Flask App
 Building a note taking using flask and MySQL
